@@ -1,0 +1,14 @@
+regsvr32.exe mshtml.dll
+regsvr32.exe shdocvw.dll
+regsvr32.exe browseui.dll
+regsvr32.exe msxml.dll
+regsvr32.exe gpkcsp.dll
+regsvr32.exe sccbase.dll
+regsvr32.exe slbcsp.dll
+regsvr32.exe initpki.dll
+regsvr32.exe wuaueng1.dll
+regsvr32.exe wucltui.dll
+regsvr32.exe wuweb.dll
+regsvr32.exe qmgr.dll
+regsvr32.exe muweb.dll
+
